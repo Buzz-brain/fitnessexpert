@@ -112,4 +112,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-For questions, feedback, or collaboration, please contact [your-email@example.com](mailto:your-email@example.com).
+For questions, feedback, or collaboration, please contact [chinomsochristian03@gmail.com](mailto:chinomsochristian03@gmail.com).
+
+## 🧑‍💻 Author
+
+**Nduoma Chinomso Christian**  
+_AKA Buzz brain_
