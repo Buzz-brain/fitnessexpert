@@ -68,7 +68,7 @@ fitness-expert-system/
 
 
 
-## 📸 Demo
+## 📸 Screenshots
 
 ### Homepage
 <div align="center">
